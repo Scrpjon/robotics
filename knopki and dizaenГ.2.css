@@ -1,0 +1,11 @@
+.gog {
+    width: 1.5vw;
+    height: 0vh;
+    display: flex;
+}
+
+img:not([alt]):nth-child(2) {
+    width: 5vh;
+    height: 7vh;
+    margin-top: -87vh;
+}
